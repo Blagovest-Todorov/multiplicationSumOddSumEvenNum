@@ -49,6 +49,7 @@ namespace _27.methodMultiplicationSumOfNumbers
 
         }
         //what is debugging --the process of finding a bug and its fixing
+        //all IDE have debbuger tool tot do the debugging
 
 
     }
