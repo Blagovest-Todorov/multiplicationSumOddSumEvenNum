@@ -54,8 +54,12 @@ namespace _27.methodMultiplicationSumOfNumbers
         //Debudding includes: the Steps
        //1. spotting a an error;Find there is a big Bug
        //2..finding the line of the problem
-       //3. Fixing the bud
+       //3. Fixing the bug
        //4. Testing to checkif the error is gone 
+       //
+       // Bugs how to fix them we have to decribe how we get to  the bug, what we enter in order to get the bud/
+       //Bugs always exist, the iomportant is to low them in order to run the program in 99.9 cases;
+
 
 
 
