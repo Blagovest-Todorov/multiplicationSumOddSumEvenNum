@@ -48,7 +48,7 @@ namespace _27.methodMultiplicationSumOfNumbers
             return sum;
 
         }
-
+        //what is debugging --the process of finding a bug and its fixing
 
 
     }
