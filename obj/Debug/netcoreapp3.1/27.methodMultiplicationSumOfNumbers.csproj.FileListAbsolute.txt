@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\bin\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.exe
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\bin\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.deps.json
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\bin\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\bin\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\bin\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.dll
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\bin\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.pdb
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\obj\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\obj\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\obj\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\obj\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.dll
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\obj\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.pdb
+C:\Users\Bla\source\repos\DataTypes\27.methodMultiplicationSumOfNumbers\obj\Debug\netcoreapp3.1\27.methodMultiplicationSumOfNumbers.genruntimeconfig.cache
